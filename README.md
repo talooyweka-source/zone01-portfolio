@@ -43,6 +43,7 @@ I'm **Ian Ochieng Talo**, a passionate software engineer in training at **Zone 0
 ## 📊 My Zone 01 Progress
 
 ### 📈 Zone01 Platform Progress
+<img width="1920" height="1080" alt="Screenshot from 2026-06-13 17-10-48" src="https://github.com/user-attachments/assets/c0b0454a-7d38-436c-a4e3-3946d2521976" />
 *(Drag and drop your Zone01 dashboard screenshot here!)*
 
 ### 💻 GitHub Coding Activity
