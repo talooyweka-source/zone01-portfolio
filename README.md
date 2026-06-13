@@ -18,7 +18,13 @@ I'm **Ian Ochieng Talo**, a passionate software engineer in training at **Zone 0
 - **No Deadlines**: Self-paced learning that encourages deep understanding
 - **Real-World Skills**: From C programming to full-stack development and DevOps
 
----
+---### 📌 Featured Projects
+
+- **[go-reloaded](https://github.com/talooyweka-source/go-reloaded)** 
+  - *Description:* A high-performance text-processing command-line tool built in Go.
+  - *Tech Stack:* Go (Golang), CLI, File I/O
+  - *Status:* ✅ Completed
+
 
 ## 📊 My Zone 01 Progress
 
