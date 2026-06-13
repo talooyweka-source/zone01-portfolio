@@ -24,8 +24,8 @@ I'm **Ian Ochieng Talo**, a passionate software engineer in training at **Zone 0
   - *Description:* A high-performance text-processing command-line tool built in Go.
   - *Tech Stack:* Go (Golang), CLI, File I/O
   - *Status:* ✅ Completed
-  
-  - # Git Project
+
+-  **[git]_(https://github.com/talooyweka-source/git)**
 A project dedicated to mastering version control, branching, and Git workflows as part of the Zone01 curriculum.
 
 # Concepts Covered
