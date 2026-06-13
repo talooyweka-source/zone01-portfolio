@@ -42,19 +42,18 @@ I'm **Ian Ochieng Talo**, a passionate software engineer in training at **Zone 0
 
 ## 📊 My Zone 01 Progress
 
-### 📈 Zone01 Platform Progress
-<img width="1920" height="1080" alt="Screenshot from 2026-06-13 17-10-48" src="https://github.com/user-attachments/assets/c0b0454a-7d38-436c-a4e3-3946d2521976" />
-*(Drag and drop your Zone01 dashboard screenshot here!)*
+### 🚀 Coding Stats & Achievements
+![Ian's GitHub Stats](https://github-readme-stats.vercel.app/api?username=talooyweka-source&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117)
 
-### 💻 GitHub Coding Activity
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=talooyweka-source&show_icons=true&theme=radical&hide_border=true" alt="Ian's GitHub Stats" />
-</p>
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=talooyweka-source&theme=radical&no-frame=true&no-bg=true&margin-w=4&column=4)
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=talooyweka-source&theme=radical&hide_border=true" alt="Ian's GitHub Streak" />
-</p>
+### 🔥 Coding Streak & Activity
+![Ian's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=talooyweka-source&theme=radical&hide_border=true&bg_color=0d1117)
 
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=talooyweka-source&theme=react-dark&hide_border=true&area=true&bg_color=0d1117)
+
+### 💻 Most Used Languages
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=talooyweka-source&layout=compact&theme=radical&hide_border=true&bg_color=0d1117)
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=talooyweka-source&layout=compact&theme=radical&hide_border=true" alt="Ian's Top Languages" />
 </p>
