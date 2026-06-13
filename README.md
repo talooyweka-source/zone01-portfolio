@@ -38,3 +38,23 @@ I'm **Ian Ochieng Talo**, a passionate software engineer in training at **Zone 0
 * **Usage:** Clone the repository to explore the commit history and branches:
   ```bash
   git clone https://github.com/talooyweka-source/git.git
+
+
+## 📊 My Zone 01 Progress
+
+### 📈 Zone01 Platform Progress
+*(Drag and drop your Zone01 dashboard screenshot here!)*
+
+### 💻 GitHub Coding Activity
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=talooyweka-source&show_icons=true&theme=radical&hide_border=true" alt="Ian's GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=talooyweka-source&theme=radical&hide_border=true" alt="Ian's GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=talooyweka-source&layout=compact&theme=radical&hide_border=true" alt="Ian's Top Languages" />
+</p>
+  
