@@ -27,14 +27,31 @@ I'm **Ian Ochieng Talo**, a passionate software engineer in training at **Zone 0
 
 ## 📌 Featured Projects
 
+### 🐜 [lem-in](https://github.com/talooyweka-source/lem-in)
+* **Description:** An advanced algorithmic pathfinding project. Given a colony of ants, a starting room, an ending room, and a network of connected rooms, the program calculates the absolute quickest way to move all ants from start to finish without collisions.
+* **Tech Stack:** C, Graph Theory (BFS), Data Structures, Makefile
+* **Key Learnings:** Algorithmic optimization, memory management, linked lists/arrays, and handling complex edge cases in graph traversal.
+* **Status:** ✅ Completed & Audited
+
+### 🎸 [Groupie-Tracker](https://github.com/talooyweka-source/groupie-tracker)
+* **Description:** A full-stack web application that consumes a RESTful API to fetch, process, and display data about musical artists, their locations, and concert dates in an interactive, responsive user interface.
+* **Tech Stack:** Go (Golang), HTML, CSS, JavaScript, REST APIs, JSON
+* **Key Learnings:** Full-stack architecture, HTTP request handling, JSON parsing, state management, and bridging backend logic with frontend rendering.
+* **Status:** ✅ Completed & Audited
+
 ### 🔄 [push-swap](https://github.com/talooyweka-source/push-swap)
 * **Description:** A highly optimized sorting algorithm that sorts a stack of integers using a secondary stack, restricted to a specific set of instructions.
 * **Tech Stack:** C, Algorithms, Makefile
 * **Key Learnings:** Algorithmic complexity (Big O), stack data structures, and sorting optimization.
 * **Status:** ✅ Completed & Audited
 
+### 🐳 [ascii-art-web-dockerize](https://github.com/talooyweka-source/ascii-art-web-dockerize)
+* **Description:** A web application that renders text into ASCII art, fully containerized using multi-stage Docker builds for minimal image size and security.
+* **Tech Stack:** Go, Docker, Docker Compose, HTTP
+* **Status:** ✅ Completed & Audited
+
 ### 🚀 [go-reloaded](https://github.com/talooyweka-source/go-reloaded)
-* **Description:** A high-performance text-processing command-line tool built in Go.
+* **Description:** A high-performance text-processing command-line tool built in Go, focusing on core language concepts and algorithmic efficiency.
 * **Tech Stack:** Go (Golang), CLI, File I/O
 * **Status:** ✅ Completed
 
